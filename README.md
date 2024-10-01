@@ -30,3 +30,12 @@ Fusion 360 rendering for the VR42 keyboard
   - Use [**GEON Works** Tadpole's](https://geon.works/products/tadpole)
   - ... but also allow for socks and/or jackets, like the [QwertyKeys QK's](https://www.qwertykeys.com/products/qk65-parts-1?variant=42933732212979)
 
+
+## License
+
+The case design is available as open source under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](http://opensource.org/licenses/MIT).
+
+
+&nbsp;<br>&nbsp;
+---
+Made with &#9829; by **Vino Rodrigues**
