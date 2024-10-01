@@ -1,8 +1,4 @@
-<svg viewBox="0 0 600 120">
-  <text font-family="CascadiaMono-Regular, Cascadia Mono" font-size="24" font-weight="normal" fill="currentColor">
-    <tspan x="90" y="69">Placeholder for Future Project</tspan>
-  </text>
-</svg>
+![Placeholder for future project](docs/assets/img/readme-banner.svg)
 
 # vr42-keyboard-case
 
@@ -17,7 +13,7 @@ Fusion 360 rendering for the VR42 keyboard
 
 - [JJWKB **Derivative** R1](https://jjwkb.com/pages/derivative-r1)
   - The anno color!
-    - <svg viewBox="0 0 128 48" width="128px" height="48px"><rect fill="#468" x="0" y="0" width="128" height="48"></rect></svg> - *a.k.a.* HTML color #468
+    - <img src="docs/assets/img/color-468.svg" width="96" height="96" alt="#468"> - *a.k.a.* HTML color #468 - close to "Pantone / PMS 2186 UP" <img src="https://encycolorpedia.com/486785.svg" width="96" height="96" alt="Pantone / PMS 2186 UP">
   - Bottom of KB, namely:
     - the rounding towards the back (chamfer/bevel), and gap for fingers/lifting along the edges
     - the weight's milled-in inset
