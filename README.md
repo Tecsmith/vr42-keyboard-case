@@ -1,11 +1,14 @@
-![Placeholder for future project](docs/assets/img/readme-banner.svg)
+# VR42 Keyboard Case
 
-# vr42-keyboard-case
+**Fusion 360 rendering for the VR42 keyboard**
 
-Fusion 360 rendering for the VR42 keyboard
+---
 
+<p align="center"><img alt="Do not build" src="docs/donotbuild.min.svg" width=480></p>
 
-> **NOTE**: This is a placeholder repo for a future project
+---
+
+![](docs/vr42-draft-render.png)
 
 # Ideation
 
