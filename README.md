@@ -9,7 +9,7 @@
 
 ---
 
-<table border="0">
+<table>
   <tr><td colspan="12" align="center"><img src="docs/vr42-render.png"></td></tr>
   <tr>
     <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-silver.png" width="213"></td>
@@ -23,6 +23,16 @@
     <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-btm.png" width="320"></td>
   </tr>
 </table>
+
+## Project Resources
+
+- Source
+  - Recovery [Fusion 360 source](Fusion360/VR42_Keyboard.f3z) file.
+- Componentized, build STEP files
+  - [Case Top](Fusion360/build/vr42_case_top.stp)
+  - [Case Bottom](Fusion360/build/vr42_case_bottom.stp)
+  - [Plate](Fusion360/build/vr42_plate.stp)
+  - [Plate Foam](Fusion360/build/vr42_plate_foam.stp)
 
 
 ## PCB
