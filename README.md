@@ -12,15 +12,15 @@
 <table>
   <tr><td colspan="12" align="center"><img src="docs/vr42-render.png"></td></tr>
   <tr>
+    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-top.png" width="320"></td>
+    <td colspan="4" align="center"><img src="docs/assets/img/vr42-plate.png" width="320"></td>
+    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-btm.png" width="320"></td>
+  </tr>
+  <tr>
     <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-silver.png" width="213"></td>
     <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-blue.png" width="213"></td>
     <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-brown.png" width="213"></td>
     <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-orange.png" width="213"></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-top.png" width="320"></td>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-plate.png" width="320"></td>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-btm.png" width="320"></td>
   </tr>
 </table>
 
@@ -104,7 +104,7 @@ Bottom case options will be:
 
 #### Daughter Board Screws
 
-- *(8x)* Hexalabular Socket Pan Head Screw ISO 14583 M2 x 4
+- *(8x)* Hexalabular Socket Pan Head Screw ISO 14583 - M2 x 4
 
 #### Plate Screws *(Optional)*
 
