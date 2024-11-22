@@ -70,6 +70,14 @@ Bottom case options will be:
 
 #### Plate
 
+- The default plates will be made in Aluminium, with the Mac Silver color.
+- Other materials will be available, including:
+  - FR4 Plate
+  - Polycarbonate
+- More materials may be added if the range extends to more production rounds, including:
+  - Carbon Fiber
+  - Copper
+
 ### Other components
 
 #### USB Daughterboard
@@ -92,13 +100,13 @@ Bottom case options will be:
 
 #### Case Screws
 
-- *(7x)* M1.6 Screws *[TODO : Details]*
+- *(7x)* Hexagon Socket Head Cap Screws ISO 4762 - M1.6 x 5
 
 #### Daughter Board Screws
 
-- *(8x)* M2 Screws *[TODO : Details]*
+- *(8x)* Hexalabular Socket Pan Head Screw ISO 14583 M2 x 4
 
-#### Plate Screws
+#### Plate Screws *(Optional)*
 
 - *(4x)* M2 [*(KBDFans)* **Plate screw and standoff set** ](https://kbdfans.com/products/kbdfans-m2-3-countersunk-flat-head-screw-kit)
 

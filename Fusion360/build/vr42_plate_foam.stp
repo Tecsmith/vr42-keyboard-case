@@ -11,8 +11,8 @@ cturing Information (PMI)---4.0---2014-10-13'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '04d35877-06e8-4ba3-aac0-b336a95cbf81.stp',
-/* time_stamp */ '2024-11-21T07:23:53Z',
+/* name */ 'c83d950f-ad74-4e2d-aff2-bb85e668c386.stp',
+/* time_stamp */ '2024-11-22T11:47:56Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -13069,15 +13069,16 @@ SOLID_ANGLE_UNIT()
 #12958=PRODUCT_DEFINITION_SHAPE('',$,#12961);
 #12959=SHAPE_REPRESENTATION('',(#7665),#12951);
 #12960=PRODUCT_DEFINITION_CONTEXT('part definition',#12965,'design');
-#12961=PRODUCT_DEFINITION('Plate Foam','Plate Foam v1',#12962,#12960);
+#12961=PRODUCT_DEFINITION('vr42_plate_foam','vr42_plate_foam v1',#12962,
+#12960);
 #12962=PRODUCT_DEFINITION_FORMATION('',$,#12967);
-#12963=PRODUCT_RELATED_PRODUCT_CATEGORY('Plate Foam v1','Plate Foam v1',
-(#12967));
+#12963=PRODUCT_RELATED_PRODUCT_CATEGORY('vr42_plate_foam v1',
+'vr42_plate_foam v1',(#12967));
 #12964=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'ap242_managed_model_based_3d_engineering',2011,#12965);
 #12965=APPLICATION_CONTEXT('Managed model based 3d engineering');
 #12966=PRODUCT_CONTEXT('part definition',#12965,'mechanical');
-#12967=PRODUCT('Plate Foam','Plate Foam v1',$,(#12966));
+#12967=PRODUCT('vr42_plate_foam','vr42_plate_foam v1',$,(#12966));
 #12968=PRESENTATION_STYLE_ASSIGNMENT((#12970));
 #12969=PRESENTATION_STYLE_ASSIGNMENT((#12971));
 #12970=SURFACE_STYLE_USAGE(.BOTH.,#12972);
